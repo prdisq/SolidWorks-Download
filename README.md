@@ -1,9 +1,11 @@
-# Proweb PHP Proxy
+# Diba PHP Proxy
 
 This proxy script allows you to forward all HTTP/HTTPS requests to another server. Works for all common request types 
 including GET, POST requests with files, PATCH and PUT requests. It has minimal set of requirements 
 (PHP >=5.6, libcurl, gzip) which are available even on the smallest free hostings and has its own simple authorization 
 and cookie support.
+
+# [https://frlegendsmods.cc/](https://frlegendsmods.cc/)
 
 ## How to use
 * Copy the [Proxy.php](Proxy.php) script to publicly-accessible folder of a PHP web server (the script is standalone and has no PHP dependencies)
